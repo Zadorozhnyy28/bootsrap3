@@ -1,9 +1,13 @@
 
+.navbar-brand {
+ color: #44c0c2;
+ font-size: 40px;
+ font-family: 'Lobster', cursive;
+
+}
+
+
 
 /*# sourceMappingURL=type.css.map */
 .col-lg-3 { margin-top: 100px; }
 
-.please {
-
- margin-bottom: 100px;
-}

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4caf80f3-0f34-4fec-8dde-eb2e40e04a6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/facebook-f-brands (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google-plus-g-brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter-brands (1).svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/type.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/type.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,8 @@
       <workItem from="1580995846714" duration="267000" />
       <workItem from="1581012953368" duration="1389000" />
       <workItem from="1581014562729" duration="1629000" />
-      <workItem from="1581016373737" duration="1217000" />
+      <workItem from="1581016373737" duration="1772000" />
+      <workItem from="1581018188647" duration="583000" />
     </task>
     <servers />
   </component>
